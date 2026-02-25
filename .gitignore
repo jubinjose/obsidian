@@ -1,0 +1,79 @@
+# Obsidian Vault .gitignore
+
+# Obsidian settings (user-specific)
+.obsidian/
+
+# Obsidian metadata (can be noisy with syncing)
+.obsidian/cache/
+.obsidian/plugins/*/
+.obsidian/*.json.bak
+.obsidian/sync/
+
+# Obsidian workspace files (user-specific, cause conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/core-plugins-migration.json
+
+# Obsidian sync conflict files (from Syncthing/Google Drive issues)
+.obsidian/*.sync-conflict*
+.obsidian/~syncthing~*
+.obsidian/workspace.sync-conflict*
+
+# Obsidian temp files
+.obsidian/temp/
+*~
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows specific
+$RECYCLE.BIN/
+.TemporaryItems
+
+# Linux specific
+.trash/
+
+# Syncthing files (if you use it)
+~syncthing~*
+.syncthing.*
+
+# Google Drive sync files
+desktop.ini
+.google-drive-sync
+
+# VSCode (if editing notes in VSCode)
+.vscode/
+*.code-workspace
+
+# Common editor backups
+*.swp
+*.swo
+*~
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.apdisk
+
+# Node modules (if using any node-based plugins)
+node_modules/
+.npm
+
+# Temporary files
+*.lock
+*.log
+
+# Keep your actual notes - don't ignore these patterns:
+# !*.md
+# !*.txt
+# !*.canvas

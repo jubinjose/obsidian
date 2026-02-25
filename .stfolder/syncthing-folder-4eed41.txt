@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: hx9zu-wugjd
+created: 2026-01-31T20:18:56-05:00

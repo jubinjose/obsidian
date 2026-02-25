@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a8bbc03a80783f0b","x":-120,"y":-340,"width":250,"height":60,"type":"text","text":"Request"},
+		{"id":"2b9aaf58bf8464a2","x":-280,"y":-200,"width":250,"height":60,"type":"text","text":"Web"},
+		{"id":"0e8144b693a9dda2","x":40,"y":-200,"width":250,"height":60,"type":"text","text":"Socket"}
+	],
+	"edges":[
+		{"id":"73611dfcfcc59c7c","fromNode":"a8bbc03a80783f0b","fromSide":"bottom","toNode":"2b9aaf58bf8464a2","toSide":"top"},
+		{"id":"38092ec88b2d25c6","fromNode":"a8bbc03a80783f0b","fromSide":"bottom","toNode":"0e8144b693a9dda2","toSide":"top"}
+	]
+}
