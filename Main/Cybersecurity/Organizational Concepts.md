@@ -17,6 +17,11 @@
 
 ### IAM Breakdown
 
-![[IAM Classifications.png]]
 
+![[IAM Breakdown.png|697]]
+
+
+### Another View showing CIAM as a parallel to IAM
+
+![[Total CyberSEC Framework.png|697]]
 
